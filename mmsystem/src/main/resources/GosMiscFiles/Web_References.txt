@@ -1,0 +1,19 @@
+Credit to the following sites and people.
+I am placing these saved as favorite. I may have missed some here but I continue to update the list 
+https://java2blog.com/spring-boot-hibernate-example/
+https://stackoverflow.com/questions/45241566/spring-boot-unit-tests-with-jwt-token-security
+https://stackoverflow.com/questions/50486314/how-to-solve-403-error-in-spring-boot-post-request 
+https://reflectoring.io/spring-boot-exception-handling/#exceptionhandler
+https://logging.apache.org/log4j/2.x/manual/appenders.html
+https://howtodoinjava.com/spring-security/custom-authentication-providers/
+https://docs.spring.io/spring-boot/docs/current/reference/html/using.html#using.structuring-your-code
+https://www.baeldung.com/spring-data-jpa-query
+https://www.bezkoder.com/spring-boot-webmvctest/
+https://stackabuse.com/guide-to-unit-testing-spring-boot-rest-apis/
+https://www.youtube.com/watch?v=Zd-m8tTbBfg
+https://github.com/eugenp/tutorials/blob/master/spring-boot-modules/spring-boot-logging-log4j2/src/main/resources/log4j2-spring.xml
+https://www.codejava.net/frameworks/spring-boot/rest-api-request-validation-examples
+https://www.codejava.net/frameworks/spring-boot/global-exception-handler-examples
+The following link have been used for security setup.
+https://blog.devgenius.io/spring-boot-security-configuration-practically-explained-part6-a-deep-intro-to-56ce03860ad
+https://stackoverflow.com/questions/57511424/difference-between-and
